@@ -5,7 +5,7 @@ An modified version of MaterialDesignInXamlToolkit, used for my player.
 - Transitioner animation (Slide)
 - Use fade-in and out instead while open and close dialog
 - Ripple animation (Bug-Fixes and make faster animation)
-- Corner card increased to 8px
+- Round corner card increased to 8px
 - Progressbar more like android (except circle style, I can't implement it)
 - etc. (I don't remember what I modified sorry about that)
 
